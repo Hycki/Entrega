@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<alunos>
+	<aluno>
+		<nome>joao</nome>
+		<matricula>12345</matricula>
+		<nota>8.5</nota>
+	</aluno>
+	
+	<aluno>
+		<nome>Maria</nome>
+		<matrricula>67890</matrricula>
+		<nota>9.0</nota>
+	</aluno>
+	
+</alunos>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<passageiros>
+	<passageiro>
+		<nome>joao</nome>
+		<idade>26</idade>
+		<numero_ticket>25</numero_ticket>
+		<origem>Bananeiras</origem>
+		<destino>Campina</destino>	
+	</passageiro>
+	
+	<passageiro>
+		<nome>Maria</nome>
+		<idade>32</idade>
+		<numero_ticket>26</numero_ticket>
+		<origem>Bananeiras</origem>
+		<destino>Campina</destino>	
+	</passageiro>
+	
+	<passageiro>
+		<nome>Carlos</nome>
+		<idade>56</idade>
+		<numero_ticket>27</numero_ticket>
+		<origem>Bananeiras</origem>
+		<destino>Campina</destino>	
+	</passageiro>
+	
+	<passageiro>
+		<nome>Bruna</nome>
+		<idade>21</idade>
+		<numero_ticket>28</numero_ticket>
+		<origem>Bananeiras</origem>
+		<destino>Campina</destino>	
+	</passageiro>
+	
+	<passageiro>
+		<nome>Jose</nome>
+		<idade>67</idade>
+		<numero_ticket>29</numero_ticket>
+		<origem>Bananeiras</origem>
+		<destino>Campina</destino>	
+	</passageiro>
+	
+
+</passageiros>
